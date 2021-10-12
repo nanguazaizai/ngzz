@@ -6,7 +6,5 @@ public class Baby implements People {
     public void sleep(){
         System.out.println("睡觉觉");
     }
-    public void run(){
-        System.out.println("飞速爬");
-    }
+
 }
