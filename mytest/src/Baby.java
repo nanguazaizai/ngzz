@@ -1,4 +1,5 @@
 public class Baby implements People {
+    private String q;
     @Override
     public void eat() {
         System.out.println("喝奶奶");
